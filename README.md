@@ -38,7 +38,7 @@ Running these checks in parallel avoids long waits from API calls.
 
 ### **3. Score and rank**
 
-Each valid ticker receives a performance score.
+Each valid ticker receives a performance score based on their Sharpe Ratio and Alpha.
 Tickers are sorted from strongest to weakest, and this ranking feeds into the optimization stage.
 
 ### **4. Optimize portfolios from 10 to 25 stocks**
