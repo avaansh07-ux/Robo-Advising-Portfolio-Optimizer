@@ -1,7 +1,7 @@
 
 ---
 
-# 📈 Robo-Advising Portfolio Optimization System
+# 📈 Robo-Advising Portfolio Optimizer
 
 This project builds an end-to-end pipeline for creating an optimized equity portfolio from North American stocks. It filters a universe of tickers, scores the valid ones, and runs a constrained optimization to find the portfolio size and weights that generate the highest return.
 
