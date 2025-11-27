@@ -11,9 +11,8 @@ It uses real historical data and a transparent process, so the results are easy 
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-3.10%2B-blue" />
-  <img src="https://img.shields.io/badge/license-MIT-green" />
-  <img src="https://img.shields.io/badge/data-yfinance-orange" />
-  <img src="https://img.shields.io/badge/optimization-SLSQP-lightgrey" />
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/data-yfinance-green" />
 </p>
 
 ---
