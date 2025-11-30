@@ -17,7 +17,7 @@ It uses real historical data and a transparent process, so the results are easy 
 
 ---
 
-## 🧩 What the project does
+## What the project does
 
 ### **1. Download price data**
 
